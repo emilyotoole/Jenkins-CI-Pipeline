@@ -6,4 +6,4 @@ It demonstrates a mock Continuous Integration pipeline using Jenkins and GitHub.
 
 Testing automatic Jenkins trigger.
 
-test
+testing jenkins auto trig
